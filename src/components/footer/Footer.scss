@@ -1,0 +1,24 @@
+
+/*
+  File: footer.scss
+  Student Name: Vijay Jannu
+  Student ID: 301-413-452
+  Date: September 25, 2025
+  Description: Contains the global color and theme for the portfolio website.
+*/
+
+@import "../../_globalColor";
+
+.footer-text {
+  text-align: center;
+  color: $subTitle !important;
+}
+
+.dark-mode {
+  color: $textColorDark !important;
+}
+
+.footer-div {
+  margin-top: 2rem;
+  padding-bottom: 1rem;
+}
