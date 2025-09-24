@@ -1,6 +1,6 @@
 # Vijay Jannu Portfolio
 
-Welcome to my personal portfolio! This website showcases my projects, skills, and services. It is built using **React**, **Sass**, and various modern web development tools.  
+Welcome to my personal portfolio! This website showcases my projects, skills, and services. It is built using **React**, and various other web development tools.  
 
 ## Features
 - **Home Page**: A welcoming introduction and mission statement.
