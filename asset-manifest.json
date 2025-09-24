@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/VijayPortfolio/static/css/main.c5ea9405.css",
+    "main.js": "/VijayPortfolio/static/js/main.9c6bab9a.js",
+    "static/css/64.bba8fa55.chunk.css": "/VijayPortfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/VijayPortfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/VijayPortfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/VijayPortfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/VijayPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/VijayPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/VijayPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/VijayPortfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/VijayPortfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/osmaniaLogo.png": "/VijayPortfolio/static/media/osmaniaLogo.261669eb9dbf98bf9544.png",
+    "static/media/skill.svg": "/VijayPortfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/VijayPortfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/VijayPortfolio/index.html",
+    "main.c5ea9405.css.map": "/VijayPortfolio/static/css/main.c5ea9405.css.map",
+    "main.9c6bab9a.js.map": "/VijayPortfolio/static/js/main.9c6bab9a.js.map",
+    "64.bba8fa55.chunk.css.map": "/VijayPortfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/VijayPortfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/VijayPortfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/VijayPortfolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ea9405.css",
+    "static/js/main.9c6bab9a.js"
+  ]
+}
